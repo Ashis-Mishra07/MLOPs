@@ -1,0 +1,29 @@
+MLOps is a set of practises that aims to delploy and maintain maintain machine 
+learning models in production relaibly and efficiently .
+
+The loop for which the MLOps came into picture is :-
+
+Data Collection   ->   Training Model  ->  Deployment in production
+
+After Deployment if assumptions are violated or not following the order or 
+the pattern is changed it again go back to the data collection and again repeat
+the loop .
+
+
+Model Centric -> data is fixed , keep on increasing the model
+Data Centric  -> model is fixed ,keep on changing the data
+
+
+
+PipeLine is basically a high level workflow that organises a series of tasks 
+required to create a final product . In the context of a movie , these steps might 
+include scriptwriting , casting , filming , editing  and distribution .
+
+Each step involves:
+Data Preparation
+Feature Engineering
+Model Training
+Model Evaluation
+Model Deployment
+
+

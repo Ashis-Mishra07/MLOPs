@@ -1,0 +1,15 @@
+pip install zenml["server"]
+zenml --version 
+
+zenml init
+zenml downgrade   # to avoid the errors and warnings 
+
+# we will not use csv file rather we will use data that is retrieved from sql database 
+# made src folder to contain the datasets
+# made pipeline folder , it will contain all the pipeline 
+# made saved folder
+# made steps folder -> contains the steps folder 
+
+# inside steps made injest_data  to injest all the data inside it 
+
+

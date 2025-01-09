@@ -10,6 +10,16 @@ zenml downgrade   # to avoid the errors and warnings
 # made saved folder
 # made steps folder -> contains the steps folder 
 
-# inside steps made injest_data  to injest all the data inside it 
+# inside steps 
+    made injest_data  to injest all the data inside it 
+    made file to clean the data
+    made file to train the data
+    made file to evaluate the data
+
+# made pipeline
+
+NOTE:
+Basically the output after the run will give u tree like structure which is called artifacts .
+
 
 

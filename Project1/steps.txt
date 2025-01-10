@@ -22,4 +22,11 @@ NOTE:
 Basically the output after the run will give u tree like structure which is called artifacts .
 
 
+# The Artifacts means the meta , attributes and visualization of the data that is being shown whne clicked to the pipeline link .
+
+# Enabling cache in the pipeline 
+    If there is no code change in the section , then it uses its previous version so that it will load very fast and will not rerender it again .
+
+
+Then data cleaning is done by adding models in the clean data in src folder and use it in clean data model
 

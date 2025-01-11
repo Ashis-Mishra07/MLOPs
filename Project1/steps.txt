@@ -30,3 +30,34 @@ Basically the output after the run will give u tree like structure which is call
 
 Then data cleaning is done by adding models in the clean data in src folder and use it in clean data model
 
+The abstract model are made for different methods and then these methods are implemented .
+The main abstract model is added in the src function and the methods are integrated in steps .
+
+
+Now left with Experiment tracker and deployment .
+Experiment Tracker is basically used to track the improvements and used to compare the made model 
+with the previous ones . It can be used to compare the 1st model with the 30th model .
+
+NOTE:
+zenml stack will tell that the model has experiment tracker that it will stack the prev model data .
+can check it out from -> zeml stack list
+
+can check out the stack configuration from -> zenml stack describe
+the pipeline that we are using is ORCHESTRATOR , the artifacts are stored in ARTIFACTS_STORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

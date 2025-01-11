@@ -45,6 +45,8 @@ can check it out from -> zeml stack list
 can check out the stack configuration from -> zenml stack describe
 the pipeline that we are using is ORCHESTRATOR , the artifacts are stored in ARTIFACTS_STORE
 
+# deployment
+For deployment purpose we need ML4 to do it .
 
 
 
